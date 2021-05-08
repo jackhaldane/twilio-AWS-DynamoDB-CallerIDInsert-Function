@@ -5,4 +5,4 @@ Twilio function to make a HTTPS request to a AWS Lambda function to lookup a inc
 Requries that got (>11.8.2) is added as a dependency
 
 # Usage
-accepts a %FromCall% variable which is passed to the AWS API gateway URL then to a Lambda function.
+accepts a `<$FromCall>` variable which is passed to the AWS API gateway URL then to a Lambda function.
