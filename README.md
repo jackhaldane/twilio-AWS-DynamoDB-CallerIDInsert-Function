@@ -6,3 +6,4 @@ Requries that got (>11.8.2) is added as a dependency
 
 # Usage
 accepts a `<$FromCall>` variable which is passed to the AWS API gateway URL then to a Lambda function.
+Function returns true once the number has been added to the DynamoDB table.
