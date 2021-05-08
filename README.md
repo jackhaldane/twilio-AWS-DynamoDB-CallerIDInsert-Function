@@ -1,5 +1,5 @@
 # twilio-AWS-DynamoDB-CallerIDInsert-Function
-Twilio function to make a HTTPS request to a AWS Lambda function to lookup a incoming Twilio phone number against a DynamoDB table.
+Twilio function that makes a HTTPS request to a AWS Lambda function to add a incoming Twilio phone number to a DynamoDB table.
 
 # Prerequisites
 Requries that got (>11.8.2) is added as a dependency
